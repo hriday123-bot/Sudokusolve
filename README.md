@@ -1,2 +1,1 @@
-# Sudokusolve
-game
+# Some small random programs
